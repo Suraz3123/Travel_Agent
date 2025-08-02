@@ -39,5 +39,5 @@ Built using **IBM watsonx Assistant**, this project demonstrates how to build a 
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/travel-planner-agent.git
+git clone https://github.com/Suraz3123/travel-planner-agent.git
 cd travel-planner-agent
